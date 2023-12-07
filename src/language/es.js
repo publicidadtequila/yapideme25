@@ -389,7 +389,7 @@ Addon: "Complemento",
 "CALL US": "LLÁMANOS",
 "write something": "escribe algo",
 "Restaurant Registration": "Registro de restaurante",
-"Logo is required": "Se requiere el logotipo
+"Logo is required": "Se requiere el logotip",
 
  "Popular Foods Nearby": "Comidas populares cercanas",
 "Please exchange more than": "Por favor, cambie más de",
